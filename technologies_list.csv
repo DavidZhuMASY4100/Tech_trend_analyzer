@@ -1,0 +1,86 @@
+Category,Technology
+Programming Languages,JavaScript
+Programming Languages,C++
+Programming Languages,Python
+Programming Languages,Ruby
+Programming Languages,Java
+Programming Languages,React
+Programming Languages,Vue
+Programming Languages,Angular
+Programming Languages,COBOL
+Programming Languages,C
+Programming Languages,C#
+Programming Languages,R
+Programming Languages,SQL
+Programming Languages,Go
+Methodologies,Lean
+Methodologies,Agile
+Methodologies,Scrum
+Methodologies,Kanban
+Methodologies,Waterfall
+Software Architecture,Event-driven
+Software Architecture,Domain-driven
+Software Architecture,Microservices
+Software Architecture,Monoliths
+Software Architecture,Microkernel
+Software Architecture,Client-Server
+Software Architecture,Layered 
+Security,Secure programming
+Security,Threat modeling
+Security,Monitoring / Alerting
+Security,Incident Response
+Security,Cloud Security
+Security,Pentesting
+Cloud,Amazon Web Services
+Cloud,Microsoft Azure
+Cloud,Google Cloud Platform
+Cloud,Alibaba
+Cloud,Oracle Cloud Infrastructure
+Cloud,IBM Cloud
+AI / Machine Learning,AutoML
+AI / Machine Learning,Neural Networks
+AI / Machine Learning,TensorFlow/PyTorch
+AI / Machine Learning,Modeling
+AI / Machine Learning,Data processing
+AI / Machine Learning,Deployment
+AI / Machine Learning,scikit-learn
+AI / Machine Learning,Tuning
+AI / Machine Learning,Math
+Data,SQL
+Data,NoSQL
+Data,Analytics
+Data,Visualization
+Data,Pipelines
+Data,Cassandra
+Data,Excel
+Data,Data warehouses
+Infrastructure,Kubernetes
+Infrastructure,application
+Infrastructure,network
+Infrastructure,management
+Infrastructure,storage
+Infrastructure,Docker
+Infrastructure,AIOps
+Infrastructure,DevOps
+Infrastructure,SRE
+Infrastructure,VMs
+Infrastructure,Servers
+Software Development,Coding
+Software Development,Pair programming
+Software Development,TDD
+Software Development,Version Control
+Software Development,Testing
+Software Development,Continuous integration / continuous delivery
+Software Development,DevOps
+Software Development,Legacy
+Web,JavaScript
+Web,CSS
+Web,PHP
+Web,HTML
+Mobile,Monitoring / Alerting
+Mobile,OS / iOS / Android
+Mobile,Caching
+Mobile,Toolkits
+Mobile,RxJava
+Mobile,Apps
+Mobile,Kotlin
