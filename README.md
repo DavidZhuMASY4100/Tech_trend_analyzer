@@ -14,3 +14,7 @@ Procedures of Use:
   Store all the files into same directory
   Run all the code in this section and confirm your file path is in a correct place
   Run the interface code with no need of runing transform.R file
+
+
+The "track" button allows users to display all charts in the interface.
+The "download" button allows users to store raw datasets to local directory. 
