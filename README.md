@@ -23,3 +23,6 @@ Procedures of Use:
 
 The "track" button allows users to display all charts in the interface.
 The "download" button allows users to store raw datasets to local directory. 
+
+# scrap_files
+This is the location that contains all scraped data from Indeed by using this analyzer.
